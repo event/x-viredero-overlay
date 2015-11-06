@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="official">
+    <name><![CDATA[x-viredero-overlay]]></name>
+    <description lang="en"><![CDATA[x-viredero Overlay]]></description>
+    <homepage>http://github.com/event/x-viredero-overlay</homepage>
+    <owner type="person">
+      <email>event.riga@gmail.com</email>
+      <name><![CDATA[Leonid Movshovich]]></name>
+    </owner>
+    <source type="git">git://github.com/event/x-viredero-overlay.git</source>
+    <feed>http://github.com/event/x-viredero-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
